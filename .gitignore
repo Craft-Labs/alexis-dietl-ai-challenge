@@ -1,0 +1,9 @@
+#.env files with secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
